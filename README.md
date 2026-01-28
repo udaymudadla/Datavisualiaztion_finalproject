@@ -21,10 +21,3 @@ Technical Benchmarking: Evaluating the evolution of average electric range by ma
 Geospatial Intelligence: A high-fidelity density heatmap identifying "Adoption Hotspots" and "Charging Deserts."
 
 Interactive Exploration: A professional-grade dashboard allowing users to filter by Manufacturer, Model Year, and Technology Type.
-.
-├── Electric_Vehicle_Population_Data_20260126.csv   # Dataset
-├── FinalDVproject.ipynb                           # Complete Analysis & 16 Visualizations
-├── app.py                                         # Streamlit Dashboard Source Code
-├── requirements.txt                               # Deployment Dependencies
-├── Presentation - The Pulse.pdf                   # Final Executive Presentation
-└── README.md                                      # Project Documentation
